@@ -1,26 +1,25 @@
 ## About Me
 
 * Senior at Rutgers University New Brunswick
-* Major in Computer Science, Psychology
+* Double Major in Computer Science, Psychology
 
 Hobbies
 * Tennis
 * Cooking
 * Movies
-* Travelling
+* Traveling
 
 Interests
 * Software Development
 * Data Engineering/Analysis
 * Cloud Technologies
 * Computational Neuroscience
-* Machine Learning & Artificial Intelligence
-* Numerical Analysis
+* Machine Learning & AI
 
 Programming Languages/Tools
 * Java
 * Python
 * C
-* AWS Cloud (AppSync, Lambda, DynammoDB, GraphQL)
+* AWS Cloud (AppSync, Lambda, DynamoDB, GraphQL)
 * JavaScript
 
